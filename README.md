@@ -1,2 +1,2 @@
 # Go-Project
-Stuff from blackhatgo book
+Stuff from the blackhatgo book
